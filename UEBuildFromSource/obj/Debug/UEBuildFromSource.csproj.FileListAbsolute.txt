@@ -1,0 +1,10 @@
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\bin\Debug\UEBuildFromSource.exe.config
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\bin\Debug\UEBuildFromSource.exe
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\bin\Debug\UEBuildFromSource.pdb
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\obj\Debug\UEBuildFromSource.csprojAssemblyReference.cache
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\obj\Debug\UEBuildFromSource.Form1.resources
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\obj\Debug\UEBuildFromSource.Properties.Resources.resources
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\obj\Debug\UEBuildFromSource.csproj.GenerateResource.cache
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\obj\Debug\UEBuildFromSource.csproj.CoreCompileInputs.cache
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\obj\Debug\UEBuildFromSource.exe
+A:\Visual Studio Projects\Unreal Project Builder\UEBuildFromSource\obj\Debug\UEBuildFromSource.pdb
